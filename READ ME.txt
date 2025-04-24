@@ -1,0 +1,5 @@
+# Basic Calculator in Python
+
+This is my first Python project — a simple calculator that performs addition, subtraction, multiplication, and division based on user input.
+
+Built from scratch as part of my learning journey 💻✨
