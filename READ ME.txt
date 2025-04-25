@@ -3,3 +3,5 @@
 This is my first Python project — a simple calculator that performs addition, subtraction, multiplication, and division based on user input.
 
 Built from scratch as part of my learning journey 💻✨
+
+Day 2 :- Added a basic GUI with the help of tkinter
